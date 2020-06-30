@@ -20,7 +20,7 @@
       <scala.version>2.10.5</scala.version>
       <junit.version>4.12</junit.version>
       <resteasy-version>3.0.19.Final</resteasy-version>
-    <spring.version>4.3.7.RELEASE</spring.version>
+    <spring.version>5.2.7.RELEASE</spring.version>
   </properties>
   <dependencies>
     <dependency>
