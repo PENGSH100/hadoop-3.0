@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="com-pengsh-study" target="1.5" />
+      <module name="hadoop-3.0" target="1.5" />
       <module name="pengsh_ssmtest01" target="1.7" />
     </bytecodeTargetLevel>
   </component>
