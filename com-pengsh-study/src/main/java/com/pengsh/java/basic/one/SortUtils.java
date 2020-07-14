@@ -72,6 +72,12 @@ public class SortUtils {
         }
         return a;
     }
+
+    /**
+     * 快速排序 先找一个基准 然后在进行拍需要
+     * @param a
+     * @return
+     */
     public static int[] quickSort(int[] a){
         if(a==null||a.length<2){
             return a;

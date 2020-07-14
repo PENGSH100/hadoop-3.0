@@ -10,6 +10,7 @@
     <modules>
         <module>com-pengsh-study</module>
         <module>pengsh_ssmtest01</module>
+        <module>com-pengsh-scala</module>
     </modules>
 
 
