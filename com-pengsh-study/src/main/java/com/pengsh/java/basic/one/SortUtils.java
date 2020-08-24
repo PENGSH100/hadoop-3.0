@@ -74,7 +74,7 @@ public class SortUtils {
     }
 
     /**
-     * 快速排序 先找一个基准 然后在进行拍需要
+     * 快速排序 先找一个基准 然后在进行排序
      * @param a
      * @return
      */
