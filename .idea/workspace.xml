@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e7b1baa-c750-43be-bebb-ade8b14eb5ef" name="Default Changelist" comment="写了设计模式">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_10,_11_30_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_10__11_30__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hadoop-3.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hadoop-3.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0_pr1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0_pr1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0_pr1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0_pr1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0_pr1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0_pr1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jmock_jmock_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jmock_jmock_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalacheck_scalacheck_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalacheck_scalacheck_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalatest_scalatest_0_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalatest_scalatest_0_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_specs_specs_1_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_specs_specs_1_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-pengsh-scala/com.pengsh.scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com-pengsh-scala/com.pengsh.scala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-pengsh-study/com.pengsh.study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com-pengsh-study/com.pengsh.study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-pengsh-study/src/test/java/com/pengsh/java/basic/one/HelloWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-pengsh-study/src/test/java/com/pengsh/java/basic/one/HelloWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pengsh_ssmtest01/pengsh_ssm-test01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pengsh_ssmtest01/pengsh_ssm-test01.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gm8Ii2uBGMuoW4belJCK5IrQVj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/com-pengsh-study/src/main/java/com/pengsh/java/DesignPattern/StatePattern" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pengsh.java.DesignPattern.FacadePattern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com-pengsh-study/src/main/java/com/pengsh/java/DesignPattern/StatePattern" />
+      <recent name="$PROJECT_DIR$/com-pengsh-study/src/main/java/com/pengsh/java/DesignPattern/ObserverPattern" />
+      <recent name="$PROJECT_DIR$/com-pengsh-study/src/main/java/com/pengsh/java/DesignPattern/MementoPattern" />
+      <recent name="$PROJECT_DIR$/com-pengsh-study/src/main/java/com/pengsh/java/DesignPattern/MediatorPattern" />
+      <recent name="$PROJECT_DIR$/com-pengsh-study/src/main/java/com/pengsh/java/DesignPattern/IteratorPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HelloWordTest.test">
+    <configuration name="IteratorPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pengsh.java.DesignPattern.IteratorPattern.IteratorPatternMain" />
+      <module name="com.pengsh.study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pengsh.java.DesignPattern.IteratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediatorPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pengsh.java.DesignPattern.MediatorPattern.MediatorPatternMain" />
+      <module name="com.pengsh.study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pengsh.java.DesignPattern.MediatorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pengsh.java.DesignPattern.MementoPattern.MementoPatternMain" />
+      <module name="com.pengsh.study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pengsh.java.DesignPattern.MementoPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pengsh.java.DesignPattern.ObserverPattern.ObserverPatternMain" />
+      <module name="com.pengsh.study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pengsh.java.DesignPattern.ObserverPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWordTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.pengsh.study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pengsh.java.basic.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pengsh.java.basic.one" />
+      <option name="MAIN_CLASS_NAME" value="com.pengsh.java.basic.one.HelloWordTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWordTest.test" />
+        <item itemvalue="Application.ObserverPatternMain" />
+        <item itemvalue="Application.MementoPatternMain" />
+        <item itemvalue="Application.MediatorPatternMain" />
+        <item itemvalue="Application.IteratorPatternMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e7b1baa-c750-43be-bebb-ade8b14eb5ef" name="Default Changelist" comment="" />
+      <created>1598708330203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598708330203</updated>
+      <workItem from="1598708332068" duration="46000" />
+      <workItem from="1598775026046" duration="143000" />
+      <workItem from="1598778485939" duration="645000" />
+      <workItem from="1598836173827" duration="4407000" />
+      <workItem from="1599098162910" duration="3530000" />
+      <workItem from="1599180573553" duration="2382000" />
+      <workItem from="1599186408340" duration="1551000" />
+      <workItem from="1599298684745" duration="1608000" />
+      <workItem from="1599314805582" duration="1061000" />
+      <workItem from="1599359051123" duration="1493000" />
+      <workItem from="1599547358701" duration="5662000" />
+      <workItem from="1599559943405" duration="825000" />
+      <workItem from="1599612658495" duration="3469000" />
+      <workItem from="1599701931495" duration="528000" />
+      <workItem from="1600053931965" duration="597000" />
+      <workItem from="1600743997718" duration="720000" />
+      <workItem from="1600845931431" duration="4043000" />
+      <workItem from="1600928624083" duration="1432000" />
+      <workItem from="1600931147564" duration="1197000" />
+      <workItem from="1601174562910" duration="3764000" />
+      <workItem from="1602300632162" duration="577000" />
+    </task>
+    <task id="LOCAL-00001" summary="写了设计模式">
+      <created>1599312880278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599312880279</updated>
+    </task>
+    <task id="LOCAL-00002" summary="写了设计模式">
+      <created>1600744075941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600744075941</updated>
+    </task>
+    <task id="LOCAL-00003" summary="写了设计模式">
+      <created>1600848039374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600848039374</updated>
+    </task>
+    <task id="LOCAL-00004" summary="写了设计模式">
+      <created>1602300717079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602300717080</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="写了设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="写了设计模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600850101660">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1600850101660" />
+    <state x="606" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599182820114">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="606" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1599182820114" />
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1600847253195">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1599100280066" />
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1600847253195" />
+    <state x="350" y="491" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601177254381">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="350" y="491" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601177254381" />
+    <state x="1985" y="137" key="DiffContextDialog" timestamp="1600744105292">
+      <screen x="1792" y="40" width="1920" height="1080" />
+    </state>
+    <state x="180" y="101" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1599312904693" />
+    <state x="1985" y="137" key="DiffContextDialog/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1600744105292" />
+    <state width="1750" height="323" key="GridCell.Tab.0.bottom" timestamp="1602301126765">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599731670191" />
+    <state width="1750" height="310" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1599313868163" />
+    <state width="1750" height="323" key="GridCell.Tab.0.bottom/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602301126765" />
+    <state width="1878" height="310" key="GridCell.Tab.0.bottom/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1599738651146" />
+    <state width="1750" height="323" key="GridCell.Tab.0.center" timestamp="1602301126763">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599731670189" />
+    <state width="1750" height="310" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1599313868122" />
+    <state width="1750" height="323" key="GridCell.Tab.0.center/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602301126763" />
+    <state width="1878" height="310" key="GridCell.Tab.0.center/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1599738651145" />
+    <state width="1750" height="323" key="GridCell.Tab.0.left" timestamp="1602301126762">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599731670188" />
+    <state width="1750" height="310" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1599313868120" />
+    <state width="1750" height="323" key="GridCell.Tab.0.left/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602301126762" />
+    <state width="1878" height="310" key="GridCell.Tab.0.left/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1599738651145" />
+    <state width="1750" height="323" key="GridCell.Tab.0.right" timestamp="1602301126764">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="310" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599731670190" />
+    <state width="1750" height="310" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1599313868161" />
+    <state width="1750" height="323" key="GridCell.Tab.0.right/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602301126764" />
+    <state width="1878" height="310" key="GridCell.Tab.0.right/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1599738651145" />
+    <state width="1750" height="382" key="GridCell.Tab.1.bottom" timestamp="1599401326761">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599401326761" />
+    <state width="1750" height="382" key="GridCell.Tab.1.center" timestamp="1599401326760">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599401326760" />
+    <state width="1750" height="382" key="GridCell.Tab.1.left" timestamp="1599401326760">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599401326760" />
+    <state width="1750" height="382" key="GridCell.Tab.1.right" timestamp="1599401326761">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="382" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599401326761" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1602301210221">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1599187996044" />
+    <state x="397" y="199" key="SettingsEditor/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602301210221" />
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2" timestamp="1602300731399">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599313043065" />
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602300731399" />
+    <state x="2323" y="317" key="Vcs.Push.Dialog.v2/1792.40.1920.1080/0.0.1792.1120@1792.40.1920.1080" timestamp="1600744115812" />
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602300873877">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602300873877" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com-pengsh-study/src/main/java/com/pengsh/java/basic/one/HelloWord.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
