@@ -11,8 +11,16 @@
         <module>com-pengsh-study</module>
         <module>pengsh_ssmtest01</module>
         <module>com-pengsh-scala</module>
+        <module> com-pengsh-groovy-study</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.codehaus.groovy</groupId>
+            <artifactId>groovy</artifactId>
+            <version>3.0.5</version>
+        </dependency>
+    </dependencies>
 
     
 </project>

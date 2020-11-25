@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-pengsh-groovy-study/com-pengsh-groovy-study.iml" filepath="$PROJECT_DIR$/com-pengsh-groovy-study/com-pengsh-groovy-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/com-pengsh-scala/com.pengsh.scala.iml" filepath="$PROJECT_DIR$/com-pengsh-scala/com.pengsh.scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/com-pengsh-study/com.pengsh.study.iml" filepath="$PROJECT_DIR$/com-pengsh-study/com.pengsh.study.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hadoop-3.0.iml" filepath="$PROJECT_DIR$/.idea/hadoop-3.0.iml" />

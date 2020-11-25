@@ -6,19 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com-pengsh-scala" />
-        <module name="com.pengsh.scala" />
+        <module name="com-pengsh-groovy-study" />
         <module name="com-pengsh-study" />
         <module name="com.pengsh.study" />
-        <module name="pengsh_ssmtest01" />
         <module name="pengsh_ssm-test01" />
+        <module name="com-pengsh-scala" />
+        <module name="pengsh_ssmtest01" />
+        <module name="com.pengsh.scala" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="com.pengsh.scala" target="8" />
-      <module name="com.pengsh.study" target="8" />
-      <module name="hadoop-3.0" target="8" />
-      <module name="pengsh_ssm-test01" target="8" />
+      <module name="com-pengsh-groovy-study" target="1.5" />
+      <module name="com.pengsh.scala" target="1.5" />
+      <module name="com.pengsh.study" target="7" />
+      <module name="hadoop-3.0" target="1.5" />
+      <module name="pengsh_ssm-test01" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

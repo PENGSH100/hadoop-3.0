@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.groovy:groovy:x.y.z">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/x.y.z/groovy-x.y.z.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/x.y.z/groovy-x.y.z-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/x.y.z/groovy-x.y.z-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
