@@ -12,6 +12,7 @@
         <module>pengsh_ssmtest01</module>
         <module>com-pengsh-scala</module>
         <module> com-pengsh-groovy-study</module>
+        <module>com.pengsh.two</module>
     </modules>
 
     <dependencies>

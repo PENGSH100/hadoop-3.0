@@ -1,7 +1,6 @@
 package com.pengsh.java.basic.one;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 /**
  * @author pengsh
@@ -9,11 +8,16 @@ import java.util.Map;
  */
 public class HelloWord {
     public static void main(String[] args) {
-        maopao();
+    /*    maopao();
         System.out.println(1>1);
 
         int day=getMothDay(2020,1,21);
         System.out.println(day);
+
+        System.out.println(701987%6);*/
+        System.out.println(sum(100));
+        int[] a=new int[]{1,2,3};
+        int[] b=new int[]{1,2,3};
     }
 
     public static void maopao() {
@@ -56,5 +60,20 @@ public class HelloWord {
         }
         return dayNum+day;
     }
+
+    /**
+     * 递归求和问题
+     * @param n
+     * @return
+     */
+    public static synchronized int sum(int n){
+        if(n<=1){
+            return 1;
+        }
+
+        return sum(n-1)+n;
+    }
+
+
 
 }

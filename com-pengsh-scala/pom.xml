@@ -9,7 +9,8 @@
     <artifactId>com.pengsh.scala</artifactId>
     <inceptionYear>2008</inceptionYear>
     <properties>
-        <scala.version>2.10.5</scala.version>
+        <scala.version>2.10.6</scala.version>
+        <spark.version>1.6.1</spark.version>
     </properties>
 
     <repositories>
@@ -45,6 +46,31 @@
             <artifactId>specs</artifactId>
             <version>1.2.5</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-core_${scala.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-streaming_${scala.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_${scala.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-hive_${scala.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-mllib_${scala.version}</artifactId>
+            <version>${spark.version}</version>
         </dependency>
     </dependencies>
 
